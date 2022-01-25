@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mahiwagangkamote
-- 👀 I’m interested in travian
+- 👀 I’m interested in Travian
 - 🌱 I’m currently learning RoR
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
